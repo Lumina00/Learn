@@ -1,6 +1,7 @@
 [submodule "learn-rust"]
 	path = learn-rust
 	url = https://gitlab.com/lumina00/learn-rust
+	branch = master
 [submodule "learn-cpp"]
 	path = learn-cpp
 	url = https://gitlab.com/lumina00/learn-cpp
